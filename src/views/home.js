@@ -20,6 +20,7 @@ const Home = (props) => {
         </div>
       </div>
       <img src="/turzii%205.png" alt="image" className="home-image5" />
+      <img src="/turzii%206.png" alt="image" className="home-image6" />
     </div>
   )
 }
