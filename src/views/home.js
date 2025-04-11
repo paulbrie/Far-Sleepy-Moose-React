@@ -12,7 +12,7 @@ const Home = (props) => {
         <meta property="og:title" content="Far Sleepy Moose" />
       </Helmet>
       <img src="/turzii%20332.png" alt="image" className="home-image1" />
-      <img src="/turzii%2033-200h.png" alt="image" className="home-image2" />
+      <img src="/turzii%2033.png" alt="image" className="home-image2" />
       <div className="home-container2">
         <img src="/turzii%20331.png" alt="image" className="home-image3" />
       </div>
