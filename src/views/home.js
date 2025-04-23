@@ -11,16 +11,17 @@ const Home = (props) => {
         <title>Far Sleepy Moose</title>
         <meta property="og:title" content="Far Sleepy Moose" />
       </Helmet>
-      <img src="/turzii%203.png" alt="image" className="home-image1" />
-      <img src="/turzii%201.png" alt="image" className="home-image2" />
+      <img alt="image" src="/turzii%203.png" className="home-image1" />
+      <img alt="image" src="/turzii%201.png" className="home-image2" />
       <div className="home-container2">
-        <img src="/turzii%204.png" alt="image" className="home-image3" />
+        <img alt="image" src="/turzii%204.png" className="home-image3" />
         <div className="home-container3">
-          <img src="/turzii%202.png" alt="image" className="home-image4" />
+          <img alt="image" src="/turzii%202.png" className="home-image4" />
         </div>
       </div>
-      <img src="/turzii%205.png" alt="image" className="home-image5" />
-      <img src="/turzii%206.png" alt="image" className="home-image6" />
+      <img alt="image" src="/turzii%205.png" className="home-image5" />
+      <img alt="image" src="/turzii%206.png" className="home-image6" />
+      <img alt="image" src="/turzii%207.png" className="home-image7" />
     </div>
   )
 }
